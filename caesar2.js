@@ -31,4 +31,4 @@ function decipher(text){
   return result;
 }
 
-console.log(decipher("hello ! my name is bobbbby!"));
+console.log(decipher("anz"));
